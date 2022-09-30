@@ -1,0 +1,3 @@
+[submodule "data/poetry"]
+	path = data/poetry
+	url = git@github.com:Renz7/Poetry.git
